@@ -1,4 +1,4 @@
-#  👋🏾 Olá, me chamo Yuri
+#  👋🏾 Olá,
 
 Bem-vindo!  
 Sou apaixonado por tecnologia, programação e aprender coisas novas. Aqui você vai encontrar projetos que refletem meus estudos, interesses e experimentos em diferentes áreas.
