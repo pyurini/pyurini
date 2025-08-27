@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia, programação e aprender coisas novas. Aqui você
 - 🎓 Estudante de Computação na Universidade de Brasília
 - 💡 Interesse em **Cybersegurança, Redes, desenvolvimento full-stack e análise de dados**
 - 🌱 Atualmente me aprofundando: **Linguagem c++, banco de dados, automações e ciência de dados com python, n8n e cybersegurança**
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/yuri-arruda-062614248/) | [Email]: yuriarruda0@gmail.com
+- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/yuri-arruda-062614248/) | Email: yuriarruda0@gmail.com
 
 ---
 
