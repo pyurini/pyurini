@@ -28,16 +28,6 @@ Sou apaixonado por tecnologia, programação e aprender coisas novas. Aqui você
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyurini&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyurini&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## ✨ Curiosidades
 - 🚴‍♂️ Prefiro aprender de forma prática, criando projetos.
 - 🎮 No tempo livre, também curto explorar assuntos que me despertam interesse e me divirtam. Como jogos ou alguns assuntos sobre física e astrofísica💫.
